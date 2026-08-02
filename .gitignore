@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Ignore all local VS Code configurations
+.vscode/
+
 # Translations
 *.mo
 *.pot
